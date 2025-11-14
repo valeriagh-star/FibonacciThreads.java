@@ -1,3 +1,5 @@
+//Alumna: García Herrera Valeria
+
 package Main;
 import java.math.BigInteger;
 import java.util.Hashtable;
@@ -70,3 +72,4 @@ import java.util.Hashtable;
 	        }
 	    }
 	}
+
